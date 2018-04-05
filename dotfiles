@@ -1,0 +1,11 @@
+# Umich GitHub
+Host github
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/ndurann
+
+# CAEN
+Host ndurann
+	HostName oncampus-course.engin.umich.edu
+	User ndurann
+	Compression yes
